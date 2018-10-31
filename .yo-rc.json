@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.comlanka.blog",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "blog",
+    "packageName": "com.comlanka.blog",
+    "packageFolder": "com/comlanka/blog",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTBiZThlNjM2NjJkOGZmODRiMDIyODkwYjM4MGVhZGNlYWI4ZmQ1MjJlMDUxZjcwMWIyNDVhMGJlMjI2Njk2ODc1MzMzNjNiYTZlMWMxMDgyMjI1Mzg5N2Y1YzgwNjhkOTY5ODBiYTYwMjZiNDQxNWQ4NDFjZGVlZjQwM2NiZTg=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "fr"
+    ]
+  }
+}
